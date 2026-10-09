@@ -1,0 +1,8 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "framework": null,
+  "installCommand": "echo Skipping install: deploying the committed static bundle",
+  "buildCommand": "echo Static bundle ready",
+  "outputDirectory": "dist",
+  "cleanUrls": true
+}
